@@ -31,5 +31,10 @@ let r = p ** q;
 
 // Increment
 let s = 12;
-s = s + 3;
-console.log(s, typeof s);
+s++;
+
+// Decrement
+let t = 10;
+t--;
+
+// console.log(r, typeof r);
